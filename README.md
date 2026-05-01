@@ -21,3 +21,8 @@ ToDo
 5. Render 48 small multiples.
 6. Add slider / hover / click.
 7. Add benchmark panel.
+
+# Demo data
+- Citibike trips in March (NYC only) have 2300 total stations.
+- Across 48 facets, this is ~110k nodes and 1.879m edges when aggregated into startStation/endStation/hour/is_weekend
+- One hour slice is 2278 nodes and 121k edges 
